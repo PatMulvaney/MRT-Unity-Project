@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanvasOperator
+  - Left Hand
+  - Right Hand
+  - Canvas VR
+  - Guide
+  - Operator
+  - Client
+  - CanvasGuide
+  - ObjectExperimental
+  - ExperimentalRoom
+  - dirt
+  - Whiteboard
+  - Display
+  - Mirror
+  - Car
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Grabbable Handler
+  - Hands
+  - Door
+  - Operator Layer
+  - Guide Layer
+  - Client Layer
+  - Ignore Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
